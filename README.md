@@ -60,7 +60,7 @@ h-	Model Performance Measurement: Tests of its final performance are now necessa
 ![image](https://user-images.githubusercontent.com/123154408/215338614-09da66de-7432-41e7-9d38-aebc456d9852.png)  ![image](https://user-images.githubusercontent.com/123154408/215338628-00fc4f1c-2251-4600-bf2f-c0a04c73b918.png)
  
  
- Fig.7  The Effect of the optimizer types (a) Adam, overfitting .(b) SGD , Normal fitting (proposed) 
+  The Effect of the optimizer types (1st Figure) Adam, overfitting .(2nd Figure) SGD , Normal fitting (proposed) 
  
 
 
